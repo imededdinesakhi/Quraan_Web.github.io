@@ -1,2 +1,2 @@
 # Quraan_Web
-for everyone Fi sabil Lah
+for everyone Fi sabil allaLh
