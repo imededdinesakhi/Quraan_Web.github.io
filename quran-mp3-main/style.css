@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.0/font/bootstrap-icons.css");
+*{
+box-sizing: border-box;
+}
+body
+body{
+  font-family: 'Lato', sans-serif;
+  background-color: #6d6c6c;
+  overflow: hidden;
+  
+}
+.bg-red{
+  background: linear-gradient(60deg, #66bb6a , #43a047);;
+  color: #fff;
+
+}
+.sticky-top{
+background-color: rgba(255, 255, 255, 0.534) ;
+height: 40px;
+}
+
+.sticky-top h1{
+  margin-bottom: 0;
+}
+div .scroll{
+  overflow: auto;
+  height: 100%;
+ 
+
+  
+}
+
+div .col-lg-4{
+  width: 420px;
+}
+
+.curser{
+  cursor: pointer;
+}
+.active{
+  color: yellow;
+}
+audio{
+  width: 100%;
+  margin-left: 3px;
+  margin-top: 25px;
+}
+@media (max-width :768px)
+{
+  div .col-lg-4{
+    height: 100% !important;
+  margin-bottom: 100px !important;
+  }
+}
+
+
+
+
+
+
+
+
