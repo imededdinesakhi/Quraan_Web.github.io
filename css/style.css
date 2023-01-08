@@ -359,14 +359,17 @@ background: url('../images/el\ madina.jpg') center center/cover no-repeat no-rep
 
 
 footer {
-    background: #232323;
-    color: #868c96;
+    background: #43a047;
+    color: #ffffff;
 }
 
 footer p {
     padding: 40px 0;
     text-align: center;
     cursor: pointer;
+    font-family: myfont;
+    font-size: xx-large;
+
 }
 
 footer img {
